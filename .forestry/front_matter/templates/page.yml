@@ -8,3 +8,4 @@ fields:
   label: title
 pages:
 - content/impressum.md
+- content/datenschutz.md
