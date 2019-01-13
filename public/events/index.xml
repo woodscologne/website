@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Woods</title>
+    <link>https://woods-cologne.de/events/</link>
+    <description>Recent content in Events on Woods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 11 Jan 2019 23:59:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://woods-cologne.de/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eröffnungswoche</title>
+      <link>https://woods-cologne.de/events/eroeffnungswoche/</link>
+      <pubDate>Fri, 11 Jan 2019 23:59:53 +0100</pubDate>
+      
+      <guid>https://woods-cologne.de/events/eroeffnungswoche/</guid>
+      <description>Ab dem 27. März laden wir zu unserer Eröffnungswoche ein. Seid bei den Ersten, die die außergewöhlichen Cocktails probieren dürfen und lasst euch auf ein Willkommensgetränk einladen.</description>
+    </item>
+    
+    <item>
+      <title>Geschlossene Gesellschaft</title>
+      <link>https://woods-cologne.de/events/geschlossene_gesellschaft/</link>
+      <pubDate>Fri, 11 Jan 2019 23:59:53 +0100</pubDate>
+      
+      <guid>https://woods-cologne.de/events/geschlossene_gesellschaft/</guid>
+      <description>Am 12. April bleibt das Woods für eine Veranstaltung geschlossen.</description>
+    </item>
+    
+    <item>
+      <title>Whisky Tasting</title>
+      <link>https://woods-cologne.de/events/whisky_tasting/</link>
+      <pubDate>Fri, 11 Jan 2019 23:59:53 +0100</pubDate>
+      
+      <guid>https://woods-cologne.de/events/whisky_tasting/</guid>
+      <description>Im Mai laden wir zum ersten Whisky Tasting ein. Bei dieser Einsteigerreise quer durch Schottland sind die Plätze streng auf 12 limitiert. Meldet euch jetzt unter info@woods-cologne.de an.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://woods-cologne.de/"
+languageCode = "de-de"
+title = "Woods"
+theme = "spectral"
