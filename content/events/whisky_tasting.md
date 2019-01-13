@@ -6,4 +6,4 @@ type: event
 image: "/_DSC2920.jpg"
 
 ---
-Im Mai laden wir zum ersten Whisky Tasting ein. Bei dieser Einsteigerreise quer durch Schottland sind die Plätze streng auf 12 limitiert. Meldet euch jetzt unter info@woods-cologne.de an.
+Im Mai laden wir zum ersten Whisky Tasting ein. Bei dieser Einsteigerreise quer durch Schottland sind die Plätze streng auf 12 limitiert. Meldet euch jetzt unter [info@woods-cologne.de](mailto:info@woods-cologne.de) an.
