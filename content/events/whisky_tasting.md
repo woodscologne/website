@@ -1,7 +1,6 @@
 ---
 title: Whisky Tasting
 date: 2019-01-11 22:59:53 +0000
-eventdate: 2019-05-05 00:00:00 +0000
 type: event
 image: "/_DSC2920.jpg"
 
